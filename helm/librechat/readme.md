@@ -1,4 +1,4 @@
-# LibreChat Helm Chart
+  # LibreChat Helm Chart
 This Librechat Helm Chart provides an easy, light weight template to deploy LibreChat on Kubernetes
 
 ## Variables
